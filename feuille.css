@@ -1,0 +1,8 @@
+.cat, .spoderman, .jackie, .blablatest, .woman
+{display: inline-block; background: url('sprite.png') no-repeat; overflow: hidden; text-align: left;}
+
+.cat {background-position: 0px 0px; width: 540px; height: 528px;}
+.spoderman {background-position: 540px 0px; width: 1480px; height: 1093px;}
+.jackie {background-position: 2020px 0px; width: 820px; height: 488px;}
+.blablatest {background-position: 2840px 0px; width: 854px; height: 480px;}
+.woman {background-position: 3694px 0px; width: 600px; height: 338px;}
